@@ -18,7 +18,7 @@ namespace Tyuiu.DragomeretskiyED.Sprint2.Task0.V26
             int y = 975;
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
-
+             
             
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
